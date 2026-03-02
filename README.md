@@ -1,4 +1,4 @@
-# Langgraph_agent_with_Redis short term memory
+# Langgraph_agent_with_Redis 
 
 ## Overview
 - When user uploads pdf file it creates faiss index and uploads to s3.
@@ -20,4 +20,5 @@ https://github.com/user-attachments/assets/e9d798a3-8fed-4169-818b-87a4bf0798ab
 - FASTAPI
 - REDIS
 - Streamlit
+
 
